@@ -1,1 +1,2 @@
-# A8
+# sequential search
+# binary search
